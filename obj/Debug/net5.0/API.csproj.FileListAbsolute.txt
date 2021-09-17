@@ -54,3 +54,10 @@
 /Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/Humanizer.dll
 /Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/saofmott/Desktop/projeto/estudos/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
